@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @paras6942
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on Data Science
-- 📫 How to reach me ...
+- 👀 I’m interested in Data Science, Machine Learning and Artificial Intelligence.
+- 🌱 I’m currently learning various Data Science tools and working on ML projects.
+- 💞️ I’m looking to collaborate on Data Science and Machine Learning.
+- 📫 How to reach me ... paraschopraa800@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
